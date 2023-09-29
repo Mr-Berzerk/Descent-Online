@@ -1,0 +1,4 @@
+name =Mineball Field with Goalposts
+type = mineball
+num_levels = 1
+goalpost.rdl
